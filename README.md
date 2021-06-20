@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Devyani Jain
 
-<!--
-**DevyaniJain13/devyanijain13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Aspiring Computer Engineer with interest and experience in techincal and management domains. A curious, innovative and adaptive learner. Believes in power of community work.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻  More About Me
+
+- 👩‍🎓 I'm a CS Engineering sophomore at Shri Vaishnav Vidyapeeth Viswavidyalaya, Indore. 
+- 🌱 I’m currently learning React and Javascript. 
+- 👯 I’m looking to collaborate on any Open Source project which I consider interesting or useful .
+- 🤔 Exploring new technologies, enthusiast in UX/UI Designing, hands on Canva.
+- 📫 How to reach me: devyanijain09@gmail.com
+- ⚡ Fun fact: "The biggest paradox of learning: the more you know, the more you realise you don't know ."
+
 -->
