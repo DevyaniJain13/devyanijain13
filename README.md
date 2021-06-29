@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Devyani Jain
 
-An Aspiring Computer Engineer with interest and experience in techincal and management domains. A curious, innovative and adaptive learner. Believes in power of community work.
+An Aspiring Computer Engineer with interest and experience in technical and management domains. A curious, innovative and adaptive learner. Believes in power of community work.
 
 
 💻  More About Me
