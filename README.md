@@ -5,10 +5,10 @@ An Aspiring Computer Engineer with interest and experience in technical and mana
 
 💻  More About Me
 
-- 👩‍🎓 I'm a CS Engineering sophomore at Shri Vaishnav Vidyapeeth Viswavidyalaya, Indore. 
-- 🌱 I’m currently learning React and Javascript. 
+- 👩‍🎓 I'm a 3rd Year Undergrad at Shri Vaishnav Vidyapeeth Viswavidyalaya, Indore. 
+- 🌱 I’m currently learning Python and Data Science.
 - 👯 I’m looking to collaborate on any Open Source project which I consider interesting or useful .
-- 🤔 Exploring new technologies, enthusiast in UX/UI Designing, hands on Canva.
+- 🤔 Exploring new technologies, enthusiast in Data Analyst, hands-on worked in Canva.
 - 📫 How to reach me: devyanijain09@gmail.com
 - ⚡ Fun fact: "The biggest paradox of learning: the more you know, the more you realise you don't know ."
 
