@@ -5,7 +5,7 @@ An Aspiring Computer Engineer with interest and experience in technical and mana
 
 💻  More About Me
 
-- 👩‍🎓 I'm a 3rd Year Undergrad at Shri Vaishnav Vidyapeeth Viswavidyalaya, Indore. 
+- 👩‍🎓 I'm a pre-final year undergrad at Shri Vaishnav Vidyapeeth Viswavidyalaya, Indore. 
 - 🌱 I’m currently learning Python and Data Science.
 - 👯 I’m looking to collaborate on any Open Source project which I consider interesting or useful .
 - 🤔 Exploring new technologies, enthusiastic in Data Analytics and Data Science, hands-on worked in Canva.
