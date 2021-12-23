@@ -1,7 +1,8 @@
-### Hi there 👋, I'm Devyani Jain
+<h1 align="center"> Hi 👋, I'm Devyani Jain</h1>
 
 An Aspiring Computer Engineer with interest and experience in technical and management domains. A curious, innovative and adaptive learner. Believes in power of community work.
 
+<p align="left"> < a href="https://twitter.com/devyani_jain13" target="blank">
 
 💻  More About Me
 
