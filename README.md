@@ -6,8 +6,7 @@ An Aspiring Computer Engineer with interest and experience in technical and mana
 💻  More About Me
 
 - 👩‍🎓 I'm junior at Shri Vaishnav Vidyapeeth Viswavidyalaya, Indore. 
-- 🌱 I’m currently learning React Native and Blockchain Developement Basics. 
-- 👯 I’m looking to collaborate on any Open Source project which I consider interesting or useful .
+- 🌱 I’m currently working React Native and Blockchain Developement Basics. 
 - 🤔 Exploring new Frontend technologies, enthusiastic in Blockchain Developement. 
 - 📫 How to reach me: devyanijain09@gmail.com
 - ⚡ Fun fact: "The biggest paradox of learning: the more you know, the more you realise you don't know ."
