@@ -6,7 +6,7 @@ An Aspiring Computer Engineer with interest and experience in technical and mana
 💻  More About Me
 
 - 👩‍🎓 I'm junior at Shri Vaishnav Vidyapeeth Viswavidyalaya, Indore. 
-- 🌱 I’m currently learning technologies for Netsuite Developer, Fronetend developer roles.
+- 🌱 I’m currently learning technologies for Netsuite Developer, Frontend developer roles.
 - 🤔 Exploring new Frontend technologies, enthusiastic in learning business management softwares. 
 - 📫 How to reach me: devyanijain09@gmail.com
 - ⚡ Fun fact: "The biggest paradox of learning: the more you know, the more you realise you don't know ."
